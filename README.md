@@ -1,5 +1,7 @@
 # Rail Roulette
 
+Program that selects random stations and tracks visited/unvisited status across the Victorian train network (V/Line and Metro)
+
 ## Roadmap:
 
 1. Write backend and simple CLI interface in Go -- this will be my first time using Go, but I am interested in it for it's simple syntax (and lack of things like classes and other complicated OOP things, I struggled with those when trying to learn previously) and the fact it compiles to a single binary with no need for any external runtimes (Node, Python Interpreter, etc.)
